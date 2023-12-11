@@ -12,3 +12,4 @@ In the Pypoll polling data analysis, the python script analyzes the votes and ca
 -The percentage of votes each candidate won
 -The total number of votes each candidate won
 -The winner of the election based on popular vote
+After utilizing the tutor and study group, I was able to arrive at the final answer. 
